@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "4fd35a02-94e2-4934-cd89-ee28e1b66b7b",
+  "instructors": {
+    "content": [
+      "c7854ca2-cdc7-a6be-4720-6db4bbddda07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "967c710b-f1d1-c336-d4d2-a52841c58d8c",
+    "website": "17-524-nationalism-fall-2004"
+  },
+  "course_title": "Nationalism",
+  "hide_download": true,
+  "course_description": "This course provides a broad overview of the theories of and approaches to the study of nationalist thought and practice. It also explores the related phenomena termed nationalism: national consciousness and identity, nations, nation-states, and nationalist ideologies and nationalist movements. The course analyzes nationalism's emergence and endurance as a factor in modern politics and society. Topics include: nationalism and state-building, nationalism and economic modernization, nationalism and democratization, and nationalism and religious conflict.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.524",
+  "course_image_thumbnail": {
+    "content": "97072e8c-4118-7fe6-49e5-99f3bcc27db6",
+    "website": "17-524-nationalism-fall-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "2f5f093b-752c-4dde-8029-0d169df6c719",
+  "site_short_id": "17.524-fall-2004",
+  "site_url_path": "courses/17-524-nationalism-fall-2004",
+  "title": "Course Metadata"
+}
