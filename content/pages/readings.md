@@ -3,8 +3,6 @@ content_type: page
 description: The readings section contains required and recommended readings for the
   course along with the reading questions.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
