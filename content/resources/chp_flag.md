@@ -6,8 +6,6 @@ description: After the terrorist attacks of September 11, 2001, firefighters hun
 file: /courses/17-524-nationalism-fall-2004/cdf7a885d710f0c8d6e6133df8ba2693_chp_flag.jpg
 file_size: 56184
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
